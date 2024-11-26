@@ -1,0 +1,77 @@
+.headerFlex {
+
+display: flex;
+justify-content: space-around;
+
+}
+
+header { background-color: lightgray;
+
+}
+
+.logo {
+
+background-color:gray;
+}
+
+
+.slider {
+background-color: yellow;
+   display: flex;
+   justify-content: center; 
+
+}
+
+.articlesFlex {
+
+    display:flex;
+    justify-content: center;
+
+}
+
+
+.centerTool {
+
+
+
+}
+
+
+.articles{
+
+
+aspect-ratio: 1/1;
+  
+
+}
+
+.navigation {
+
+
+}
+
+.logo{
+
+ 
+}
+
+.socials {
+   
+
+}
+
+
+.footer{
+    
+    background-color: gray;
+    display: flex;
+    justify-content: center; 
+
+}
+
+.info {
+
+display:flex;
+justify-content: space-around;
+
+}
